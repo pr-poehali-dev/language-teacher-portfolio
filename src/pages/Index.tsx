@@ -48,7 +48,7 @@ const Index = () => {
           <div className="relative">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="https://cdn.poehali.dev/projects/1027cc01-6e34-44da-a267-19a9e7571873/files/5834cc7c-b110-45f1-9c84-711647e0b985.jpg"
+                src="https://cdn.poehali.dev/projects/1027cc01-6e34-44da-a267-19a9e7571873/files/ff006d6c-fc42-47ad-87ef-42aaf10075bf.jpg"
                 alt="Семён Усик"
                 className="w-full h-full object-cover"
               />
