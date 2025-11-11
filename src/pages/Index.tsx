@@ -32,7 +32,7 @@ const Index = () => {
             </h2>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
               Профессиональный преподаватель английского и немецкого языков с 10-летним опытом. 
-              Помогаю студентам достигать высоких результатов и влюбляться в изучение языков.
+              Помогаю школьникам достигать высоких результатов и влюбляться в изучение языков.
             </p>
             <div className="flex gap-4">
               <Button size="lg" className="gap-2">
@@ -84,7 +84,7 @@ const Index = () => {
                 </div>
                 <h4 className="text-xl font-semibold mb-3">Индивидуальный подход</h4>
                 <p className="text-muted-foreground">
-                  Разрабатываю персонализированные программы обучения, учитывая цели и особенности каждого студента
+                  Разрабатываю персонализированные программы обучения, учитывая цели и особенности каждого школьника
                 </p>
               </CardContent>
             </Card>
@@ -96,7 +96,7 @@ const Index = () => {
                 </div>
                 <h4 className="text-xl font-semibold mb-3">Результаты</h4>
                 <p className="text-muted-foreground">
-                  Более 200 студентов успешно сдали международные экзамены IELTS, TOEFL, Goethe-Zertifikat
+                  Более 200 школьников успешно сдали международные экзамены IELTS, TOEFL, Goethe-Zertifikat
                 </p>
               </CardContent>
             </Card>
@@ -124,7 +124,7 @@ const Index = () => {
               </div>
               <div>
                 <h4 className="text-lg font-semibold mb-2">98% успешных сдач экзаменов</h4>
-                <p className="text-muted-foreground">Студенты показывают высокие результаты на международных экзаменах</p>
+                <p className="text-muted-foreground">Школьники показывают высокие результаты на международных экзаменах</p>
               </div>
             </div>
 
