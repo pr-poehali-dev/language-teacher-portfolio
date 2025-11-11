@@ -273,7 +273,7 @@ const Index = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="gap-2">
               <Icon name="Mail" size={20} />
-              info@annivanova.ru
+              malusguy5@gmail.com
             </Button>
             <Button size="lg" variant="outline" className="bg-transparent text-primary-foreground border-primary-foreground hover:bg-primary-foreground hover:text-primary gap-2">
               <Icon name="Phone" size={20} />
