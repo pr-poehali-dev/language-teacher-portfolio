@@ -7,7 +7,7 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm border-b border-border z-50">
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <h1 className="text-2xl font-bold text-primary">Анна Иванова</h1>
+          <h1 className="text-2xl font-bold text-primary">Семён Усик</h1>
           <div className="hidden md:flex gap-6">
             <a href="#about" className="text-foreground hover:text-primary transition-colors">Обо мне</a>
             <a href="#achievements" className="text-foreground hover:text-primary transition-colors">Достижения</a>
@@ -28,7 +28,7 @@ const Index = () => {
               <span className="text-secondary font-semibold">Преподаватель иностранных языков</span>
             </div>
             <h2 className="text-5xl font-bold text-foreground mb-6">
-              Анна Иванова
+              Семён Усик
             </h2>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
               Профессиональный преподаватель английского и немецкого языков с 10-летним опытом. 
@@ -49,7 +49,7 @@ const Index = () => {
             <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
               <img
                 src="https://cdn.poehali.dev/projects/1027cc01-6e34-44da-a267-19a9e7571873/files/5834cc7c-b110-45f1-9c84-711647e0b985.jpg"
-                alt="Анна Иванова"
+                alt="Семён Усик"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -285,7 +285,7 @@ const Index = () => {
 
       <footer className="py-8 px-4 border-t border-border">
         <div className="container mx-auto text-center text-muted-foreground">
-          <p>© 2024 Анна Иванова. Все права защищены.</p>
+          <p>© 2024 Семён Усик. Все права защищены.</p>
         </div>
       </footer>
     </div>
