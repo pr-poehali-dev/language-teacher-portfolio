@@ -214,47 +214,10 @@ const Index = () => {
                     <Icon name="School" size={24} className="text-primary" />
                   </div>
                   <div className="flex-1">
-                    <h4 className="text-xl font-semibold mb-1">Магистратура по лингвистике</h4>
-                    <p className="text-muted-foreground mb-2">МГУ им. М.В. Ломоносова • 2012-2014</p>
-                    <p className="text-sm text-muted-foreground">
-                      Специализация: Теория и методика преподавания иностранных языков. 
-                      Диплом с отличием.
-                    </p>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
-
-            <Card className="border-l-4 border-l-secondary shadow-lg">
-              <CardContent className="pt-6">
-                <div className="flex items-start gap-4">
-                  <div className="w-12 h-12 bg-secondary/10 rounded-full flex items-center justify-center flex-shrink-0">
-                    <Icon name="BookOpen" size={24} className="text-secondary" />
-                  </div>
-                  <div className="flex-1">
-                    <h4 className="text-xl font-semibold mb-1">Бакалавриат по филологии</h4>
+                    <h4 className="text-xl font-semibold mb-1">Бакалавриат</h4>
                     <p className="text-muted-foreground mb-2">МГИМО • 2008-2012</p>
                     <p className="text-sm text-muted-foreground">
-                      Двойная специальность: английский и немецкий языки. 
-                      Год обучения в Германии по программе обмена.
-                    </p>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
-
-            <Card className="border-l-4 border-l-primary shadow-lg">
-              <CardContent className="pt-6">
-                <div className="flex items-start gap-4">
-                  <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
-                    <Icon name="Briefcase" size={24} className="text-primary" />
-                  </div>
-                  <div className="flex-1">
-                    <h4 className="text-xl font-semibold mb-1">Курсы повышения квалификации</h4>
-                    <p className="text-muted-foreground mb-2">Регулярное обучение • 2015-2024</p>
-                    <p className="text-sm text-muted-foreground">
-                      Ежегодное участие в международных программах повышения квалификации, 
-                      семинарах и конференциях по методике преподавания.
+                      Специализация: преподавание иностранных языков (английский, немецкий).
                     </p>
                   </div>
                 </div>
