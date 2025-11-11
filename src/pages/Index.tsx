@@ -277,7 +277,7 @@ const Index = () => {
             </Button>
             <Button size="lg" variant="outline" className="bg-transparent text-primary-foreground border-primary-foreground hover:bg-primary-foreground hover:text-primary gap-2">
               <Icon name="Phone" size={20} />
-              +7 (999) 123-45-67
+              8 800 555 35 55
             </Button>
           </div>
         </div>
